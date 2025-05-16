@@ -1,1 +1,2 @@
 hey, i`m bob i am new here
+i am adding changes to Bob.txt master working repository
